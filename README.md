@@ -5,7 +5,7 @@
 ## English
 
 **Memesicle Privacy Policy**
-Effective date: _fill in on publish_
+Effective date: 29.10.2026
 
 Memesicle ("the app") is a local-only tool for storing and quickly inserting GIFs, stickers and emoji. The app has no backend server and does not transmit user data to the developer or any third party.
 
@@ -30,14 +30,14 @@ See `permissions.md` in this folder for the full list of requested permissions a
 If functionality affecting data handling changes, this page will be updated with a new effective date.
 
 **Contact**
-Questions about this policy — _fill in developer contact email_.
+Questions about this policy — 369664@gmail.com
 
 ---
 
 ## Русский
 
 **Политика конфиденциальности Memesicle**
-Дата вступления в силу: _указать дату публикации_
+Дата вступления в силу: 29.10.2026
 
 Memesicle («приложение») разработан как локальный инструмент хранения и быстрой вставки GIF, стикеров и эмодзи. Приложение не имеет серверной части и не передаёт данные пользователя разработчику или третьим лицам.
 
@@ -62,4 +62,4 @@ Memesicle («приложение») разработан как локальн�
 При изменении функциональности, затрагивающей обработку данных, эта страница будет обновлена с указанием новой даты вступления в силу.
 
 **Контакты**
-Вопросы по данной политике — _указать контактный email разработчика_.
+Вопросы по данной политике — 369664@gmail.com
